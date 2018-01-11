@@ -1,0 +1,4 @@
+services:
+#    pj_platform.example:
+#        class: PJ\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

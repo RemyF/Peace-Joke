@@ -1,0 +1,3 @@
+pj_core_home:
+    path:     /
+    defaults: { _controller: PJCoreBundle:Core:index }

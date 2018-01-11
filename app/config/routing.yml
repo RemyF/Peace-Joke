@@ -1,0 +1,11 @@
+pj_core:
+    resource: "@PJCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+pj_platform:
+    resource: "@PJPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

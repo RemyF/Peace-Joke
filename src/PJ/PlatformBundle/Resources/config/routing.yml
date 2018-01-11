@@ -1,0 +1,3 @@
+pj_platform_homepage:
+    path:     /
+    defaults: { _controller: PJPlatformBundle:Default:index }
