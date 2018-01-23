@@ -27,4 +27,3 @@ PHP7+
 ## License
 
 Ce projet est sous licence LGPL v3 - voir [LICENSE.md](https://github.com/RemyF/Peace-Joke/blob/master/LICENSE) pour plus de détails
->>>>>>> 2a1b1f2aec42e3123acc9efc3e816df9b0b68aa3
